@@ -3,7 +3,7 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 ingress:
-  enabled: true
+  enabled: false
   host: devopstoolkitseries.com
 resources:
   limits:
