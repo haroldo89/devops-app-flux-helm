@@ -1,1 +1,1 @@
-# golang application
+# multiple applications
